@@ -1,6 +1,6 @@
 {
   "name": "cryptomancy-format",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "encoding libraries for cryptomancy",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,9 @@
     "jsbn": "^1.1.0",
     "proquint": "0.0.1",
     "tweetnacl-util": "^0.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitub.com/ansuz/cryptomancy-format.git"
   }
 }
